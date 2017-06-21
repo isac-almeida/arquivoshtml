@@ -1,0 +1,36 @@
+main { width: 700px;
+		margin: 0 auto; }
+
+main header h1 {color: #909;
+				text-align: right;
+				margin-bottom: 0;}
+
+main header hr {border: #909 solid 1px;}
+
+main aside  {float: left;
+			 margin-top: 20px;	}
+
+main article {flex: left;
+			margin-top: 20px;}
+
+main article form fieldset {border:solid 1px #fcc;}
+
+main article form fieldset input,textarea {background-color: #fcc;
+											border: none;
+											width: 475px;
+											margin-left: 40px;
+											}
+
+
+main article  label {width: 60px; display: block;
+								float: left;}
+
+main article textarea {margin-left: 28px;
+					resize: none;
+					}
+
+#botao {border:none;
+background-color: #fcc;
+width: 100px;
+padding-top: 10px;
+padding-bottom: 10px;}
